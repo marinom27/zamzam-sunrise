@@ -4,6 +4,6 @@ We provide solutions and ideas about how to use emotional-aware and personality 
 
 As an additional step, we make use of the IPFS network to allow faster access to movie content.
 
-This project is solely used for the purposes of the Start Hack 2022
+This project is solely used for the purposes of the Start Hack 2022.
 
-To start, please read the Remotion-Report.pdf
+To start, please read the Remotion-Report.pdf.
