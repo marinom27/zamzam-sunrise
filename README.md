@@ -6,4 +6,4 @@ As an additional step, we make use of the IPFS network to allow faster access to
 
 This project is solely used for the purposes of the Start Hack 2022.
 
-To start, please read the Remotion-Report.pdf or take a look at the presentation slides.
+To start, please read the Remotion_Report.pdf or take a look at the presentation slides.
