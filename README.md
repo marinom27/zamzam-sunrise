@@ -1,3 +1,3 @@
 # ZamZam - Sunrise
 
-First proposal draft
+Please see report.pdf for our detailed proposal
