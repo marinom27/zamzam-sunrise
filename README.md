@@ -1,1 +1,3 @@
-# zamzam-sunrise
+# ZamZam - Sunrise
+
+First proposal draft
