@@ -4,10 +4,6 @@ import pandas as pd
 import json
 
 
-
-
-
-
 SMALL_SIZE = 8
 MEDIUM_SIZE = 10
 BIGGER_SIZE = 12
@@ -20,9 +16,6 @@ plt.rc('xtick', labelsize=BIGGER_SIZE)    # fontsize of the tick labels
 plt.rc('ytick', labelsize=BIGGER_SIZE)    # fontsize of the tick labels
 plt.rc('legend', fontsize=BIGG)    # legend fontsize
 plt.rc('figure', titlesize=BIGGER_SIZE)  # fontsize of the figure title
-
-
-
 
 
 df = pd.read_json('./data/hrate.json')
@@ -59,8 +52,3 @@ plt.locator_params(axis='x', nbins=5)
 plt.legend()
 plt.savefig('afternoon.png')
 plt.show()
-
-
-
-#13:19
-#changed= 15:45
