@@ -1,3 +1,3 @@
 # ZamZam - Sunrise
 
-Please see report.pdf for our detailed proposal
+Please see Remotion-Report.pdf for our detailed proposal
